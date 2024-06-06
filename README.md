@@ -39,4 +39,4 @@ Highly motivated programming student with excellent results in machine learning,
 <a href="https://github.com/boghtml/Desktop_AutoServiceProject_main_part_3" align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=boghtml&repo=Desktop_AutoServiceProject_main_part_3&hide_border=true&locale=en" />
 </a>
-</div><br /><br /><br /><br /><br /><br /><br />
+</div>
