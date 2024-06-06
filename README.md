@@ -7,7 +7,7 @@ Data Science | Data Analyst | Python Developer
 Highly motivated programming student with excellent results in machine learning, data analysis, desktop application development and web development. A winner of programming competitions, I have a strong foundation in higher mathematics and programming, which allows me to solve complex problems in both Data Science and Python Development. With a background in statistical analysis, machine learning and data visualization, I am ready to apply and develop my skills in real-world projects. I am fluent in English and Ukrainian.
 
 * 🌍  I'm based in Khmelnytskyi, Khmel'nyts'ka oblast', UKR
-* 🖥️  See my portfolio at [CV](https://drive.google.com/file/d/1BAODH9nelU9W1GgegzuocW99B0OAny1y/view))
+* 🖥️  See my portfolio at [CV](https://drive.google.com/file/d/1BAODH9nelU9W1GgegzuocW99B0OAny1y/view)
 * ✉️  You can contact me at [boghtml@gmail.com](mailto:boghtml@gmail.com) or at telergam - @AndreyRybakk 
 * 🧠  I'm learning the new django framework and how to work with LLM models and Hugging Face and the OpenAI API
 * 🤝  I'm open to collaborating on any interesting project that would match my skills
