@@ -32,15 +32,11 @@ Highly motivated programming student with excellent results in machine learning,
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghtml)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=boghtml)  
+
 <b>Top Repositories</b>
 
 <a href="https://github.com/boghtml/Desktop_AutoServiceProject_main_part_3" align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=boghtml&repo=Desktop_AutoServiceProject_main_part_3&hide_border=true&locale=en" />
 </a>
 </div><br /><br /><br /><br /><br /><br /><br /> 
-
-### GitHub Snake Animation
-
-<p align="center">
-  <img src="https://github.com/boghtml/boghtml/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
