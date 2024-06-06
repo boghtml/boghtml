@@ -28,8 +28,6 @@ Highly motivated programming student with excellent results in machine learning,
 ![GitHub metrics](https://metrics.lecoq.io/boghtml)  
 
 <b>My GitHub Stats</b>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghtml)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=boghtml)  
 
