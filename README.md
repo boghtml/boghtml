@@ -28,11 +28,15 @@ Highly motivated programming student with excellent results in machine learning,
 
 <b>My GitHub Stats</b>
 <p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghtml)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <p align="center">
+  
 ![GitHub metrics](https://metrics.lecoq.io/boghtml)  
+
 </p>
 
 <p align="center">
