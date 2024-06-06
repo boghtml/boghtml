@@ -27,25 +27,15 @@ Highly motivated programming student with excellent results in machine learning,
 ### Badges
 
 <b>My GitHub Stats</b>
-<p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghtml)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-<p align="center">
   
 ![GitHub metrics](https://metrics.lecoq.io/boghtml)  
 
-</p>
-
-<p align="center">
 <a href="http://www.github.com/boghtml"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boghtml&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
 <a href="https://github.com/boghtml/Desktop_AutoServiceProject_main_part_3" align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=boghtml&repo=Desktop_AutoServiceProject_main_part_3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
