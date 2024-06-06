@@ -26,11 +26,11 @@ Highly motivated programming student with excellent results in machine learning,
 
 ### Badges
 
+![GitHub metrics](https://metrics.lecoq.io/boghtml)  
+
 <b>My GitHub Stats</b>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boghtml)](https://github.com/anuraghazra/github-readme-stats)
-  
-![GitHub metrics](https://metrics.lecoq.io/boghtml)  
 
 <a href="http://www.github.com/boghtml"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boghtml&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -40,3 +40,5 @@ Highly motivated programming student with excellent results in machine learning,
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=boghtml&repo=Desktop_AutoServiceProject_main_part_3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div><br /><br /><br /><br /><br /><br /><br />
+
+<img src="https://github.com/boghtml/boghtml/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
