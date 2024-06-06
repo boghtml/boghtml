@@ -45,6 +45,8 @@ Highly motivated programming student with excellent results in machine learning,
 </a>
 </div>
 
+### GitHub Snake Animation
+
 <p align="center">
-  <img src="https://github.com/boghtml/boghtml/blob/output/github-snake.svg" alt="snake animation" />
+  <img src="https://github.com/boghtml/boghtml/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
