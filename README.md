@@ -25,7 +25,7 @@ Highly motivated programming student with excellent results in machine learning,
 
 ### Badges
 
-![GitHub metrics](https://metrics.lecoq.io/boghtml)  
+![GitHub metrics](https://metrics.lecoq.io/boghtml)
 
 <b>My GitHub Stats</b>
 
