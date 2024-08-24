@@ -11,7 +11,7 @@ Highly motivated programming student with excellent results in machine learning,
 * ✉️  You can contact me at [boghtml@gmail.com](mailto:boghtml@gmail.com) or at **telegram** - @AndreyRybakk 
 * 🧠  I'm learning the new django framework and how to work with LLM models and Hugging Face and the OpenAI API
 * 🤝  I'm open to collaborating on any interesting project that would match my skills
-* ⚡  Top 🇺🇦 workout athlete 💪
+* ⚡  Top workout athlete 💪
 
 ### Skills
 
