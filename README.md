@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrii Rybak
 ====================================================================================================================================
 
-Data Scientist | Python Developer | Django Backend Developer
+Python | Go Back-End Software Enginee
 ----------------------------------------------
 
 Highly motivated programming student with excellent results in machine learning, data analysis, desktop application development and web development. A winner of programming competitions, I have a strong foundation in higher mathematics and programming, which allows me to solve complex problems in both Data Science and Python Development. With a background in statistical analysis, machine learning and data visualization, I am ready to apply and develop my skills in real-world projects. I am fluent in English and Ukrainian.
